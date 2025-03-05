@@ -1,0 +1,17 @@
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Data.deps.json
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Data.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Data.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Business.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Core.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Core.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\bin\Debug\net9.0\GTM.Business.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.AssemblyInfo.cs
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.csproj.Up2Date
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\refint\GTM.Data.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\GTM.Data.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Data\obj\Debug\net9.0\ref\GTM.Data.dll

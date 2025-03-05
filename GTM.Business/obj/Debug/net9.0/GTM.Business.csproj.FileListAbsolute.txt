@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\bin\Debug\net9.0\GTM.Business.deps.json
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\bin\Debug\net9.0\GTM.Business.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\bin\Debug\net9.0\GTM.Business.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\bin\Debug\net9.0\GTM.Core.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\bin\Debug\net9.0\GTM.Core.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.AssemblyInfo.cs
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Busi.B3D8F6E3.Up2Date
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\refint\GTM.Business.dll
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\GTM.Business.pdb
+C:\Users\Ali\Desktop\GTM-API\GTM.Business\obj\Debug\net9.0\ref\GTM.Business.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I5cAwyaas4tqY3uI1BRjubKlxsVB498eHL5H1b2io7M=",
+  "Source": "GTM.WebAPI",
+  "BasePath": "_content/GTM.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
