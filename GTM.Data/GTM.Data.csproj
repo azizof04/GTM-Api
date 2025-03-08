@@ -1,8 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\GTM.Core\GTM.Core.csproj" />
     <ProjectReference Include="..\GTM.Business\GTM.Business.csproj" />
+    <!-- <ProjectReference Include="..\GTM.Data\GTM.Data.csproj" /> -->
+     <ProjectReference Include="..\GTM.Core\GTM.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

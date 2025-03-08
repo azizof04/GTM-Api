@@ -2,6 +2,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GTM.Core\GTM.Core.csproj" />
+    <ProjectReference Include="..\GTM.Data\GTM.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
   </ItemGroup>
 
   <PropertyGroup>

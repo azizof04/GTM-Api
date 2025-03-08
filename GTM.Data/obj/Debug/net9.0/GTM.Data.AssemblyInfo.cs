@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GTM.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a283053b59dcc044aa4a7ae811158d2fa8e4cb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GTM.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GTM.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

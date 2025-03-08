@@ -11,6 +11,8 @@ namespace GTM.Core.Data
         public DbSet<User> Users { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<LessonPlan> LessonPlans { get; set; }
+        public DbSet<AboutUs> AboutUs { get; set; }
+        public DbSet<Account> Accounts { get; set; }
 
         // Model oluşturma yapılandırması (opsiyonel)
         protected override void OnModelCreating(ModelBuilder modelBuilder)
