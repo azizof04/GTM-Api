@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Core\\GTM.Core.csproj": {
                 "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Core\\GTM.Core.csproj"
+              },
+              "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Data\\GTM.Data.csproj": {
+                "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Data\\GTM.Data.csproj"
               }
             }
           }
@@ -53,6 +56,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -172,9 +181,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Business\\GTM.Business.csproj": {
-                "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Business\\GTM.Business.csproj"
-              },
               "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Core\\GTM.Core.csproj": {
                 "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Core\\GTM.Core.csproj"
               }
@@ -246,9 +252,6 @@
             "projectReferences": {
               "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Business\\GTM.Business.csproj": {
                 "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Business\\GTM.Business.csproj"
-              },
-              "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Data\\GTM.Data.csproj": {
-                "projectPath": "C:\\Users\\Ali\\Desktop\\GTM-API\\GTM.Data\\GTM.Data.csproj"
               }
             }
           }
@@ -269,6 +272,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"

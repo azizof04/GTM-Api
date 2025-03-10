@@ -9,8 +9,6 @@ namespace GTM.Core.Data
 
         // Entity'ler için DbSet tanımları
         public DbSet<User> Users { get; set; }
-        public DbSet<Course> Courses { get; set; }
-        public DbSet<LessonPlan> LessonPlans { get; set; }
         public DbSet<AboutUs> AboutUs { get; set; }
         public DbSet<Account> Accounts { get; set; }
 

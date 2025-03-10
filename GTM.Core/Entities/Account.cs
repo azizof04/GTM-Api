@@ -7,7 +7,7 @@ namespace GTM.Core.Entities
     public class Account
     {
         [Key]
-        public int Id { get; set; } // MongoDB'deki `_id` yerine int ID
+        public int Id { get; set; } 
 
         [Required]
         [StringLength(50)]
